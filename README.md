@@ -1,6 +1,6 @@
 # 🤖 Chatbot de Habilidades Emocionales - SENA
 
-## Hola Descripción
+## Descripción
 
 Este proyecto consiste en el desarrollo de un **chatbot de habilidades emocionales**, creado como proyecto final en el marco del proceso de formación del **Servicio Nacional de Aprendizaje (SENA)**.
 
